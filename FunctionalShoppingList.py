@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+"""evelandy/W.G.
+Aug. 15 2018 4:32pm
+ShoppingList
+Python36-32
+appends data into a list 
+"""
 import os
 
 shop_list = []
